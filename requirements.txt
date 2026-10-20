@@ -1,0 +1,11 @@
+prefect==3.7.5
+pandas==3.0.3
+pymongo==4.17.0
+certifi==2026.6.17
+kagglehub==1.0.2
+python-dotenv==1.2.2
+
+# solo per il notebook di analisi esplorativa
+matplotlib==3.11.0
+seaborn==0.13.2
+ipykernel==7.3.0
